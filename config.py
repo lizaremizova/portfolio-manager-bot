@@ -1,2 +1,2 @@
-TOKEN = '7321485637:AAENVZxTbt3AMlCCkJ1h5r8Uws8HQPjUMDU'
+TOKEN = ''
 DATABASE = 'my_projects.db'
