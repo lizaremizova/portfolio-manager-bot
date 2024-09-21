@@ -10,3 +10,10 @@
 - /delete - deleting a project
 
 You can also enter a name of project and see information about it"
+
+## what is used in this bot:
+
+- sqlite3
+- python
+- telebot
+- 
