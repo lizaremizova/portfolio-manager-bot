@@ -13,7 +13,7 @@ You can also enter a name of project and see information about it"
 
 ## what is used in this bot:
 
-- sqlite3
-- python
-- telebot
-- 
+- sqlite3: a database engine. It is software that allows users to interact with a relational database
+- python: programming language used to write the code
+- telebot: a library used for creating telegram bots
+
